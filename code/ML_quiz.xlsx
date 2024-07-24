@@ -1,0 +1,4 @@
+,MCQ,Choices,Correct
+0,Which machine learning approach involves the computer being presented with example inputs and their desired outputs?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Semi-supervised learning,a
+1,"What type of learning algorithm has no labels given to the learning algorithm, allowing it to find structure in its input?",a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Semi-supervised learning,b
+2,In which machine learning approach does a computer program interact with a dynamic environment and try to maximize rewards?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Semi-supervised learning,c
